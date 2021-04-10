@@ -27,4 +27,5 @@ __# Sublime Text 3\
 4.Enter the license key. (the license key is already provided above)
 
 #### LiCENSE KEY FOR ALL SUBLIME TEXT VERSiON
-###### [Source](http://bit.ly/SublimeKEY)
+## [Source](http://bit.ly/SublimeKEY)
+###### Translate by GoogleTranslate
